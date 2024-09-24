@@ -280,5 +280,5 @@ possible:
 [![Telegram](https://img.shields.io/badge/Telegram-@dreycodedev-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/dreycodedev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oluwadamilare-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/oluwadamilare-babalola-788420256/)
 [![Instagram](https://img.shields.io/badge/Instagram-dreycodelab-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/dreycodelab)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-dreycodelab-green?style=flat&logo=whatsapp&logoColor=32bf32)](https://www.instagram.com/dreycodelab)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-dreycodelab-green?style=flat&logo=whatsapp&logoColor=32bf32)](https://wa.link/2g0a05)
 
