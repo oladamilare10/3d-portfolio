@@ -278,12 +278,6 @@ possible:
 ## 📞 Contact Us
 
 [![Telegram](https://img.shields.io/badge/Telegram-@dreycodedev-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/dreycodedev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-oluwadamilare-babalola-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/oluwadamilare-babalola-788420256/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B6CIQyWuSQhSOX0Uz7HS79A%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oluwadamilare-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/oluwadamilare-babalola-788420256/)
 [![Instagram](https://img.shields.io/badge/Instagram-dreycodelab-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/dreycodelab)
 
-
-## 📋 License
-
-**Three.js 3D Portfolio** is open source software
-[licensed as MIT](https://opensource.org/license/mit/) and is free to use — See
-[LICENSE](https://github.com/ladunjexa/reactjs18-3d-portfolio/blob/main/LICENSE) for more details.
